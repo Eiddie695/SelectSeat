@@ -1,0 +1,31 @@
+﻿{
+    "reserve":  [
+                    {
+                        "username":  "xxxxxxxx",
+                        "password":  "xxxxxxxx",
+                        "time_morning":  [
+                                             "09:00",
+                                             "11:00"
+                                         ],
+                        "time_noon":  [
+                                          "15:00",
+                                          "19:00"
+                                      ],
+                        "time_evening":  [
+                                             "19:00",
+                                             "22:00"
+                                         ],
+                        "roomid":  "9915",
+                        "seatid":  [
+                                       "285"
+                                   ],
+                        "daysofweek":  [
+                                           "Wednesday",
+                                           "Thursday",
+                                           "Friday",
+                                           "Saturday"
+                                       ],
+                        "pageid":  "105"
+                    }
+                ]
+}
